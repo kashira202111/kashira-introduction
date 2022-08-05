@@ -47,25 +47,3 @@ AWS　S3を用いた環境構築は経験あり（趣味）
 
 ## Ruby(Ruby on rails)
 趣味で簡単なCURDアプり作成、AWS上にデプロイした経験のみ
-
-## AWS
-インターン経験あり(1週間)
-#### 利用サービス
-EC2, Lambda, ECS, ECR, S3, RDS, VPC, CloudFront, API Gateway, Route53, CloudFormation, EMR, IAM, DynamoDB, Rekognition, Glacier, SNS
-#### 作成物
-作業LOGや、作業内容を残していないものが多くて大分分かりにくいですが……
-
-##### 複数台構成のLAMP環境の構築の自動化
-EC2, RDS, PVC, CloudFormationで作成
-
-##### カメラで人の表情から笑顔を判断して通知するアプリ(インターン作品)
-![画像1](https://user-images.githubusercontent.com/39304199/126520989-180fa631-b1bc-46e7-8497-9778c009ea39.png)
-
-##### 静的ページの作成
-S3, API Gateway, Route53, CloudFrontを用いて
-
-##### コンテナ型WEBアプリ環境の構築
-ECS, ECR, VPC, CloudFormation, RDSで作成
-
-#### AWS上でのHadoop環境の構築
-EMR、S3で作成
