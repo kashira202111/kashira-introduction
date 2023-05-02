@@ -1,17 +1,12 @@
 # About Me
-kashiraです。
-dbtの言う所のアナリティクスエンジニア・データエンジニアの両方をやってきました。
-メインでは無いですが認証認可周りの整備もやっています。
-
-
-dbtでのデータ関連エンジニアの分類わけ
-[Guide to writing data, analytics engineer, and data analyst job descriptions](https://www.getdbt.com/data-teams/analytics-job-descriptions/)
+kashiraです。  
+データエンジニアとして2020年/4月から仕事しています。  
+幅広くデータエンジニアリングに関することをやっていますが、データプラットフォーム・データマネジメントあたりをメインに仕事をしています。
 
 # Carrer
 [Carrer](./career.md)
 
-# Portfolio
-[Portfolio](./portfolio.md)
-
-# Tech Stack
-[技術スタック](./tech_stack.md)
+# 執筆記事
+- https://inside.pixiv.blog/2023/03/23/110000
+- https://inside.pixiv.blog/2023/04/10/150000
+- https://zenn.dev/kashira
